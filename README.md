@@ -1,6 +1,9 @@
 # Pokédex Mini-Challenge
 
-A modern React TypeScript application that displays Pokémon data from the PokeAPI. Built with React Router for navigation and TanStack Query for efficient data fetching and caching. 
+A modern React TypeScript application that displays Pokémon data from the PokeAPI. Built with React Router for navigation and TanStack Query for efficient data fetching and caching.
+
+**Created by:** Vivek Chudasma 
+**Git Repo:** https://github.com/Vivekchudasma/pokedex
 
 ### Project Structure
 ```

@@ -3,6 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": "Vivek Chudasma",
+  "description": "A modern React TypeScript Pokédex application built with PokeAPI",
+  "git": "https://github.com/Vivekchudasma/pokedex",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
