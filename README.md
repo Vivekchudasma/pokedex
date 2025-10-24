@@ -1,6 +1,6 @@
 # Pokédex Mini-Challenge
 
-A modern React TypeScript application that displays Pokémon data from the PokeAPI. Built with React Router for navigation and TanStack Query for efficient data fetching and caching.
+A modern React TypeScript application that displays Pokémon data from the PokeAPI. Built with React Router for navigation and TanStack Query for efficient data fetching and caching. 
 
 ### Project Structure
 ```
@@ -41,7 +41,7 @@ The app will be available at `http://localhost:5173`
 
 ## API Integration
 
-The app integrates with the public [PokeAPI](https://pokeapi.co/):
+The app integrates with the public [PokeAPI](https://pokeapi.co/): 
 
 - **List Endpoint**: `GET https://pokeapi.co/api/v2/pokemon?limit=50&offset=0`
 - **Detail Endpoint**: `GET https://pokeapi.co/api/v2/pokemon/{name}`
